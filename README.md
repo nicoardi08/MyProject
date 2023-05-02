@@ -2,7 +2,7 @@
 Hello I'm Nico Ardianto, a passionate Software Developer with more than 3 years experiences. Currently focusing on mobile application developement and I am always welcomed to learn new technologies, methods, and principle as per the project requirements.
 
 <a href="mailto:nicoardianto1997@gmail.com" target="_blank"><img src="https://i.ibb.co/Pg9dLPS/email-nico.jpg" height="25"></a>
-<a href="https://www.linkedin.com/in/nico-ardianto-bba8b1269/" target="_blank"><img src="https://i.ibb.co/nr6kV8Z/linkedin-nico.jpg " height="25"></a>
+<a href="https://www.linkedin.com/in/nico-ardianto-bba8b1269/" target="_blank"><img src="https://i.ibb.co/nr6kV8Z/linkedin-nico.jpg" height="25"></a>
 <a href="https://www.instagram.com/ncrdnt08/" target="_blank"><img src="https://i.ibb.co/cT5RtPd/instagram-nico.jpg" height="25"></a>
 
 
