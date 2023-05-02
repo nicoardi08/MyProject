@@ -3,7 +3,7 @@ Hello I'm Nico Ardianto, a passionate Software Developer with more than 3 years 
 
 <a href="mailto:nicoardianto1997@gmail.com" target="_blank"><img src="https://i.ibb.co/Pg9dLPS/email-nico.jpg" height="25"></a>
 <a href="https://www.linkedin.com/in/nico-ardianto-bba8b1269/" target="_blank"><img src="ttps://i.ibb.co/nr6kV8Z/linkedin-nico.jpggit " height="25"></a>
-<a href="https://www.instagram.com/ncrdnt08/" target="_blank"><img src="https://i.ibb.co/cT5RtPd/instagram-nico.jpgh" height="25"></a>
+<a href="https://www.instagram.com/ncrdnt08/" target="_blank"><img src="https://i.ibb.co/cT5RtPd/instagram-nico.jpg" height="25"></a>
 
 
 
